@@ -1,5 +1,7 @@
 /yolo3-pytorch
 .vscode
 /VOCdevkit/*
-/YOLO3复现.assets
+/data/coco/*
+/data/VOCdevkit/*
 yolo_weights.pth
+weight.pth
